@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>GenericMaximum.ExtendMaxMethod</StartupObject>
+    <StartupObject>GenericMaximum.PrintAndExtendMax</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="ExtendMaxMethod.cs" />
     <Compile Include="MaximumString.cs" />
     <Compile Include="MaximumUsingFloat.cs" />
+    <Compile Include="PrintAndExtendMax.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
